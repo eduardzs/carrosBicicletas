@@ -4,6 +4,5 @@ Bem-vindo(a) ao meu segundo projeto, uma iniciativa empolgante desenvolvida como
 
 <a href="https://carros-bicicletas.vercel.app/">Link do Projeto</a>
 
-<div align="center">
-<img src="./carrosBicicletas.png" alt="Imagem do Projeto">
-</div>
+<img src="bicicletasCarros.png" alt="Imagem do Projeto">
+
